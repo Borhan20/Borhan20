@@ -12,6 +12,7 @@ Core strengths
 
 Selected links
 - Facebook: https://www.facebook.com/profile.php?id=100004340084994
+- Kaggle: https://www.kaggle.com/anamborhanuddin
 - Codeforces: https://codeforces.com/profile/No_Talent
 - HackerRank: https://www.hackerrank.com/borhanuddin_24c1
 - LeetCode: https://leetcode.com/profile/
